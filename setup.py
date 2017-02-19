@@ -10,7 +10,7 @@ setup(
     description='A wrapper for running Scrapyd in Heroku '
                 'or in console as normal Scrapyd service',
     long_description=
-    'Go to https://github.com/jxltom/scrapyd-heroku/ for more infomation.',
+    'Go to https://github.com/jxltom/scrapyd-heroku/ for more information.',
     author=__author__,
     author_email='jxltom@gmail.com',
     url='https://github.com/jxltom/scrapyd-heroku/',
