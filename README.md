@@ -10,6 +10,6 @@ A wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](h
     
 ## Getting Started
 
-- Add ```scrapyd-heroku``` which is available in PyPI to ```requirements.txt``` in your application and add ```web: scrapyd_heroku``` to ```Procfile```.
+- Add ```scrapyd-heroku``` which is available in PyPI to ```requirements.txt``` in your application and add ```web: scrapyd-heroku``` to ```Procfile```.
 
 - Or you can [fork this repository](https://github.com/jxltom/scrapyd-heroku#fork-destination-box) and deploy it in Heroku directly.
