@@ -4,7 +4,7 @@ A wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](h
 
 ## Features
 
-- Support running Scrapyd service in ```80``` port in Heroku
+- Support running Scrapyd service in ```80``` port with http or ```443``` port with https in Heroku
 - Support running Scrapyd in console as normal Scrapyd service
 - Support latest version of Scrapy ```1.3.2``` and Scrapyd ```1.2.0a1```
     
