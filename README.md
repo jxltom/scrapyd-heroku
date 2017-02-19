@@ -4,8 +4,8 @@ A wrapper for running Scrapyd in Heroku or in console as normal Scrapyd service.
 
 ## Features
 
-    - Support running Scrapyd service in ```80``` port in [Heroku](https://heroku.com/)
-    - Support running Scrapyd in console as normal Scrapyd service
+- Support running [Scrapyd](https://github.com/scrapy/scrapyd) service in ```80``` port in [Heroku](https://heroku.com/)
+- Support running Scrapyd in console as normal Scrapyd service
     
 ## Getting Started
 
