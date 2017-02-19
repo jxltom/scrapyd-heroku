@@ -1,0 +1,8 @@
+# Changelog
+
+## Version 0.1.0 (2017-02-19)
+
+## Features
+
+    - Support running Scrapyd service in ```80``` port in [Heroku](https://heroku.com/)
+    - Support running Scrapyd in console as normal Scrapyd service
