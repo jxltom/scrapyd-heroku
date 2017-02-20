@@ -1,6 +1,6 @@
 # scrapyd-heroku
 
-A wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](https://heroku.com/) or in console as normal Scrapyd service.
+Wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](https://heroku.com/) or in console as normal Scrapyd service.
 
 ## Features
 
