@@ -10,6 +10,8 @@ Wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](htt
     
 ## Getting Started
 
-- Simply [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and deploy it to Heroku directly.
+- Simply [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and deploy it to Heroku
+
+- Or [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample) from this repo directly
 
 - Or ```pip install scrapyd-heroku``` and run ```scrapyd-heroku``` locally
