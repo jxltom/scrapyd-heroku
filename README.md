@@ -4,12 +4,12 @@ Wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](htt
 
 ## Features
 
-- Support running Scrapyd service in ```80``` port with http or ```443``` port with https in Heroku
-- Support running Scrapyd in console as normal Scrapyd service
-- Support latest version of Scrapy ```1.3.2``` and Scrapyd ```1.2.0a1```
+- Support running Scrapyd service in Heroku
+- Support running Scrapyd service locally
+- Support latest version of Scrapy ```1.5.0``` and Scrapyd ```1.2.0```
     
 ## Getting Started
 
-- Add ```scrapyd-heroku``` which is available in PyPI to ```requirements.txt``` in your application and add ```web: scrapyd-heroku``` to ```Procfile```. Thre is a demo in [heroku-demo](https://github.com/jxltom/scrapyd-heroku/tree/heroku-demo) branch.
+- Simply [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and deploy it to Heroku directly.
 
-- Or you can [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and deploy it in Heroku directly.
+- Or ```pip install scrapyd-heroku``` and run ```scrapyd-heroku``` locally
