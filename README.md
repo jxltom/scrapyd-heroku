@@ -10,7 +10,7 @@ Wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](htt
     
 ## Getting Started
 
-- Simply [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and deploy it to Heroku
+- Simply [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork), update custom configurations in ```scrapy.conf```, and deploy it to Heroku
 
 - Or [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jxltom/scrapyd-heroku) from this repo directly
 
