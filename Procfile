@@ -1,1 +1,1 @@
-web: python scrapyd_heroku/__main__.py
+web: python -m scrapyd_heroku.manage
