@@ -1,2 +1,4 @@
 scrapyd_heroku.egg-info/
 dist/
+
+\.idea/
