@@ -11,3 +11,7 @@ scrapyd = "*"
 
 [dev-packages]
 twine = "*"
+
+[scripts]
+start = "python manage.py"
+upload = "python setup.py upload"
