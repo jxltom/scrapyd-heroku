@@ -16,4 +16,4 @@ Wrapper for running [Scrapyd](https://github.com/scrapy/scrapyd) in [Heroku](htt
 
 - Or ```pip install scrapyd-heroku``` and run ```scrapyd-heroku``` locally
 
-- Or [fork this repository](https://github.com/jxltom/scrapyd-heroku/fork) and run ```python manage.py``` locally
+- Or [clone this repository](https://github.com/jxltom/scrapyd-heroku.git) and run ```python manage.py``` locally
